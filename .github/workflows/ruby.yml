@@ -20,4 +20,4 @@ jobs:
   test:
     permissions:
       contents: none
-    uses: fog/.github/.github/workflows/ruby.yml@v1.1.0
+    uses: fog/.github/.github/workflows/ruby.yml@v1.6.0
